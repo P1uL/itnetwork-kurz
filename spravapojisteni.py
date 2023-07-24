@@ -20,7 +20,7 @@ class SpravaPojisteni:
             if pojisteny.jmeno == jmeno and pojisteny.prijmeni == prijmeni:
                 return pojisteny
 
-        return None
+  
 
 
 
